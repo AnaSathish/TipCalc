@@ -1,6 +1,6 @@
 # Pre-work - *TipCalc*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipCalc** is a tip calculator application for iOS.
 
 Submitted by: **Nandhana Sathish**
 
@@ -18,7 +18,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/VUxrvgG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created imgur
+GIF created with imgur
 
 ## Notes
 
